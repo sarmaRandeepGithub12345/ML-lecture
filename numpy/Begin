@@ -1,0 +1,8 @@
+1)Make Local environment:python -m venv myenv
+2)Activate Local env: myenv\Scripts\activate 
+3)Install numpy:pip install numpy
+4)pip install matplotlib
+5)start from phase-1.ipynb
+
+
+
