@@ -1,0 +1,36 @@
+PHASE1
+1)Make Local environment:python -m venv myenv
+2)Activate Local env: myenv\Scripts\activate 
+3)Install numpy:pip install pandas
+4)start from addingC.ipynb
+
+
+PHASE2
+5)start from updating.ipynb
+
+PHASE3
+6)start from missing.ipynb
+
+
+PHASE4
+7)start from interpolation.ipynb
+
+PHASE5
+8)start from sorting.ipynb
+
+
+PHASE6
+9)start from summary.ipynb
+
+PHASE7
+10)start from summary.ipynb
+
+PHASE8
+11)start from merging.ipynb
+
+PHASE9
+12)start from concatenation.ipynb
+
+
+
+
