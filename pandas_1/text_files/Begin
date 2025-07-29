@@ -1,0 +1,31 @@
+PHASE1
+1)Make Local environment:python -m venv myenv
+2)Activate Local env: myenv\Scripts\activate 
+3)Install numpy:pip install pandas
+4)start from app.ipynb
+5)To run .xlsx file install:pip install openpyxl
+
+PHASE2
+6)start with save.ipynb
+
+PHASE3
+7)start with row.ipynb
+
+PHASE4
+8)start with in.ipynb
+
+PHASE5
+9)start with describe.ipynb
+
+PHASE6
+10)start with topic.ipynb
+
+PHASE7
+10)start with examplestep5.ipynb
+
+PHASE8
+10)start with rowsfilter.ipynb
+
+
+
+

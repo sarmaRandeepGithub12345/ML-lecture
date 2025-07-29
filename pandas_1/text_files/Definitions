@@ -1,0 +1,25 @@
+I)Series :(time 16:00)
+
+    1. A one dimensional labeled array that can hold any data type:integers, floats, strings or even Python objects.
+    2. Each element in the Series has a unique label called index. It is often used to track changes or pattern over time, such as daily temperatures, stock prices or sales revenue.
+
+II)Dataframe :(time 16:40)
+
+1.  A dataframe is a two dimensional labeled data structure in Pandas, similar to a table in a database, an Excel spreadsheet or a SQL table.
+2.  It consists of rows and columns where:
+    a. Rows have indices (labels)
+    b. Columns have names (labels)
+
+III)Steps for data exploration:(time:28:10)
+1- understand the data set
+2- Identify the problem
+3- plan next steps
+
+IV)Mean:Arithmetic average of the values
+
+V)Standard deviation:
+
+a. Definition-> modulus of difference between values and the mean.
+b. lower standard deviation means data is Iconsistent
+c. eg of small standard deviation : 28,29,30,31,32 where 30 is mean
+d. eg of large standard deviation : 10,20,30,40,50 where 30 is mean but diff between values and mean is large
