@@ -1,0 +1,12 @@
+1. Look at Business Requirement File
+2. Make a virtual environment: python -m venv myenv 
+3. Activate virtual environment: .\myenv\Scripts\activate  
+4. Start with blink_analysis.ipynb
+5. In the terminal run:
+  a. pip install pandas
+  b. pip install matplotlib
+  c. pip install seaborn
+6. Copy the original_blink_data.csv file from "ori
+ginal file" folder
+7. Paste it in PROJECT_I directory
+8. Delete blinkit_data.csv as it is the file I have edited and worked with

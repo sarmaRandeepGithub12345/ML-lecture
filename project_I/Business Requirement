@@ -1,0 +1,52 @@
+I. Scholarly articles for to conduct a comprehensive analysis of blinket's sale performance customer satisfaction and inventory distribution to identify key insights and opportunities for Optimisation using various KPI visualizations in Power BI
+
+II. KPI Requirements
+
+1. Total Sales:The overall revenue generated from all items sold
+2. Average Sales: The average revenue per sale
+3. Number of Items: The total count of different items sold
+4. Average Rating: The average customer ratings for the item sold.
+
+III. CHART Requirements
+
+1. Total Sales by FAT Content
+
+   Objective- Analyze the impact of FAT content on total sales.
+
+   Additional KPI Metrics- Assess how other KPIs( Average Sales, Number of Items, Average Ratings) vary with FAT content
+
+   Chart Type- Donut Chart
+
+2. Total Sales by Item Type
+
+   Objective – Identify the performance of different item types in terms of total sales.
+
+   Additional KPI Matrix – Assess how other KPIs (Average Sales, Number of Items, Average Ratings) vary with FAT content.
+
+   Chart Type – Bar Chart
+
+3. FAT content by outlet for total sales.
+
+   Objective - Compare total sales across different outlets segmented by FAT content.
+
+   Additional KPI Matrix – Assess how other KPIs (Average Sales, Number of Items, Average Ratings) vary with FAT content.
+
+   Chart type - Stacked Column Chart.
+
+4. Total Sales by Outlet Establishment
+
+   Objective- Evaluate how the age or type of outlet establishment influences total sales
+
+   Chart Type- Line Chart
+
+5. Sales by Outlet Size
+
+   Objective- Analyze the correlation between outlet size and total sales
+
+   Chart Type- Donut or Pie Chart
+
+6. Sales by Outlet Location
+
+   Objective- Assess the graph distribution of sales across different locations
+
+   Chart Type- Funnel Map
